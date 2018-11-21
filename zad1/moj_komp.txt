@@ -1,0 +1,4 @@
+Zainstalowana pamięć RAM:4,00GB (dostępne 3,89GB) 
+Procesor: Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz 1.70 GHZ
+64-bitowy system operacyjny, procesor x64  
+pojemność dysku: 279GB 
