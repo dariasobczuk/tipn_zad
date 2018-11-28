@@ -7,12 +7,12 @@ Ich wielka rola, jaką każdego dnia, od setek tysięcy lat nieustannie wykonuj�
 90% wszystkich zasobów żywności na świecie stanowią 82 artykuły spożywcze pochodzenia roślinnego. **77% tych artykułów nigdy nie powstałoby, gdyby nie zapylanie roślin przez pszczoły.** Najpopularniejszym zapylaczem roślin jest *pszczoła miodna*, która zapyla ponad połowę wszystkich roślin „spożywczych”. W prostym przeliczeniu daje to wniosek, że 1/3 ludzkiego pożywienia bezpośrednio zależy od owadów zapylających.
 
 ## Kilka ciekawostek o pszczołach.
-1. Pszczoły porozumiewają się za pomocą tańców i wydawania dźwięków.
-2. Pszczoła robotnica może wyprodukować w swoim życiu miód w ilości 1/12 łyżeczki od herbaty.
-3. Pszczoły muszą odwiedzić około 4 milionów kwiatów, aby zebrać nektar na 1 kg miodu.
-4. Pszczoły wytwarzają miód w ten sam sposób od 150 milionów lat.
-5. Przeciętna szybkość pszczoły to tylko 24 kilometry na godzinę.
-6. Królowe pszczoły mogą żyć do 5 lat, składają około 3 000 jaj dziennie
+ 1. Pszczoły porozumiewają się za pomocą tańców i wydawania dźwięków.
+ 2. Pszczoła robotnica może wyprodukować w swoim życiu miód w ilości 1/12 łyżeczki od herbaty.
+ 3. Pszczoły muszą odwiedzić około 4 milionów kwiatów, aby zebrać nektar na 1 kg miodu.
+ 4. Pszczoły wytwarzają miód w ten sam sposób od 150 milionów lat.
+ 5. Przeciętna szybkość pszczoły to tylko 24 kilometry na godzinę.
+ 6. Królowe pszczoły mogą żyć do 5 lat, składają około 3 000 jaj dziennie
 
 
 ## Anegdota
