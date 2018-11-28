@@ -23,16 +23,16 @@ Naukowcy odkryli, jak można interpretować specyficzny taniec pszczół – psz
 
 ## Królowa
 Co gdy potrzebna jest nowa królowa? Proces wyboru nowej królowej przebiega w kilku krokach:
-–krok 1: pszczoły budują ok. 20 komórek
-–krok 2: aktualna królowa składa jaja w każdej komórce
-–krok 3: jedna z młodych pszczół karmi młodą larwę królowej specjalnym pożywieniem i powiększa komórkę, aż osiągnie 25 mm średnicy.
-–krok 4: 9 dni po połogu, pierwsza komórka królowej jest uszczelniana warstwą wosku.
-–krok 5: duży rój, nazywany pierwszym rojem, opuszcza ul prowadzony przez starsze pszczoły. Stara królowa głoduje, przez co staje się lżejsza i zdolna do latania. Stare pszczoły, które przekonały królową do dołączenia do nich, odlatują w poszukiwaniu nowego miejsca na stworzenie kolonii.
-–krok 6: 8 dni później pierwsza królowa opuszcza swoją komórkę. Teraz, albo wybiera dla siebie mały rój albo opuszcza ul, aby założyć własny rój. Może również zabić pozostałe potencjalne królowe poprzez zaklejenie je woskiem w ich komórkach i pozostać jako jedyna królowa.
-–krok 7: młoda królowa lata w okolicy i zdobywa orientację otoczenia
-–krok 8: królowa wykonuje kilka lotów gotowych i wybiera z pośród 20 trutni, które umrą zaraz po godach
-–krok 9: po 3 dniach zapłodniona królowa zacznie składać jaja w wymiarze do 2000 na dzień. Z zapłodnionych jaj powstaną pszczoły robotnice, z niezapłodnionych trutnie.
-–krok 10: królowa pozostaje z kolonią przynajmniej rok, zanim urośnie na tyle, by założyć własną kolonię. Pszczoły robotnice żyją tylko 40 dni, królowa może przeżyć nawet 5 lat.
+– krok 1: pszczoły budują ok. 20 komórek
+– krok 2: aktualna królowa składa jaja w każdej komórce
+– krok 3: jedna z młodych pszczół karmi młodą larwę królowej specjalnym pożywieniem i powiększa komórkę, aż osiągnie 25 mm średnicy.
+– krok 4: 9 dni po połogu, pierwsza komórka królowej jest uszczelniana warstwą wosku.
+– krok 5: duży rój, nazywany pierwszym rojem, opuszcza ul prowadzony przez starsze pszczoły. Stara królowa głoduje, przez co staje się lżejsza i zdolna do latania. Stare pszczoły, które przekonały królową do dołączenia do nich, odlatują w poszukiwaniu nowego miejsca na stworzenie kolonii.
+– krok 6: 8 dni później pierwsza królowa opuszcza swoją komórkę. Teraz, albo wybiera dla siebie mały rój albo opuszcza ul, aby założyć własny rój. Może również zabić pozostałe potencjalne królowe poprzez zaklejenie je woskiem w ich komórkach i pozostać jako jedyna królowa.
+– krok 7: młoda królowa lata w okolicy i zdobywa orientację otoczenia
+– krok 8: królowa wykonuje kilka lotów gotowych i wybiera z pośród 20 trutni, które umrą zaraz po godach
+– krok 9: po 3 dniach zapłodniona królowa zacznie składać jaja w wymiarze do 2000 na dzień. Z zapłodnionych jaj powstaną pszczoły robotnice, z niezapłodnionych trutnie.
+– krok 10: królowa pozostaje z kolonią przynajmniej rok, zanim urośnie na tyle, by założyć własną kolonię. Pszczoły robotnice żyją tylko 40 dni, królowa może przeżyć nawet 5 lat.
 
 | NAZWA                                | ADRES                               | OFEROWANE RASY                                             |   |   |
 |--------------------------------------|-------------------------------------|------------------------------------------------------------|---|---|
